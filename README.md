@@ -1,7 +1,7 @@
 # Retail Sales Analysis using SQL and Power BI
 
 ## Project Overview
-This project analyzes retail customer purchasing behavior using SQL and visualizes insights using Power BI.
+This project analyzes retail sales of customers using SQL and visualizes insights using Power BI.
 
 ## Tools Used
 - MySQL
